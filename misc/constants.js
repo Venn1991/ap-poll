@@ -1,0 +1,10 @@
+(exports.neutralLookUpname = 'NEUTRAL'),
+	(exports.ycpLookUpname = 'YSRCP'),
+	(exports.tdpLookUpname = 'TDP'),
+	(exports.congresstralLookUpname = 'CONGRESS'),
+	(exports.janasenaLookUpname = 'JANASENA'),
+	(exports.othersLookUpname = 'OTHERS'),
+	(exports.twilioAuthToken = 'c10445079b49dfb415cf4a74093692a4'),
+	(exports.twilioAccountSid = 'ACcb467a54ef437a53f3334fd44ff2d7b8'),
+	(exports.twilioNumber = '+14125153388'),
+	(exports.sendCredsMessage = `Hi Welcome to LomaaIT, Join our community on the go! Click https://lomaa-it.github.io/election-poll-survey & use Temporary password:`);
